@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rafa
+### Oi, eu sou o Rafa!
 
 - 💻 Hoje trabalho com desenvolvimento de testes automatizados
 - 🚀 Além do curso de Sistemas de Informação na UFPE, faço parte do Programa de Testes e Qualidade de Software do Julio de Lima
