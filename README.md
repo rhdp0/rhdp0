@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/rhdp0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhdp0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhdp0&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhdp0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhdp0&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/271814827570102273/882000649577979964/WhatsApp-Video-2021-08-30-at-17.32.35.gif">
+  <img align="right" alt="Rafa-yoda" src="https://github.com/rhdp0/rhdp0/blob/main/antibugs.gif" width="400" border="5">
 </div>
   
   ##
